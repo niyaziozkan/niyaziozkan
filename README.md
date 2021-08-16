@@ -6,13 +6,13 @@
 <a href="https://linkedin.com/in/niyaziozkan" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.kaggle.com/niyaziozkan" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
 <a href="mailto:niyazi.ozkan52@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" />
 </a>
-
+<a href="https://www.kaggle.com/niyaziozkan" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>  
+  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=niyaziozkan&&style=flat-square)  
   
@@ -32,11 +32,11 @@
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=niyaziozkan&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=niyaziozkan&show_icons=true&count_private=true&hide_border=true" align="left" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyaziozkan&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyaziozkan&hide_border=true&layout=compact" align="left" />
 
 </td></tr></table>  
 
@@ -46,5 +46,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
