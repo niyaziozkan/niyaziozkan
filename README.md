@@ -15,6 +15,8 @@
 </a> 
 <br>
 <br>
+<br>
+<br>
 <p>
 🔭 I am currently improving my Data Science and Machine Learning skills.  
   
@@ -32,6 +34,5 @@ Python / Machine Learning / Deep Learning / Natural Language Processing / Data A
 AWS / Model Deployment / Streamlit / Flask / Microsoft SQL Server / Database Modelling & Design / Tableau / Google Sheets / 
 
 Git / Github / HTML / CSS / Linux / Agile / Jira
-
 
 
