@@ -13,7 +13,7 @@
 </a>  
   
 
-<img src="https://github-readme-stats.vercel.app/api?username=niyaziozkan&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=niyaziozkan&show_icons=true&count_private=true&hide_border=true" align="left" />
 
 </td><td valign="top" width="50%">
 
@@ -22,7 +22,7 @@
 </div>  
   
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyaziozkan&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyaziozkan&hide_border=true&layout=compact" align="right" /></div>
 
 </td></tr></table>  
 
@@ -42,3 +42,4 @@
 <img src="https://drive.google.com/uc?export=view&id=1W7DV9MKgyQ4JhQgh2pkGnPHiGhQ0-wXE" align="left" style="width: 100%" />  
 
 <br />
+
