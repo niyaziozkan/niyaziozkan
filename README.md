@@ -9,8 +9,10 @@
 <a href="https://www.kaggle.com/niyaziozkan" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:niyazi.ozkan52@gmail.com)
-  
+<a href="mailto:niyazi.ozkan52@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=gmail style="margin-bottom: 5px;" />
+</a>
+
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=niyaziozkan&&style=flat-square)  
   
